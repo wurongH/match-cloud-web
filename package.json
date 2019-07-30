@@ -1,0 +1,38 @@
+{
+  "name": "DaSaiYunPingTaiZongZhan",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --mode env",
+    "testing": "vue-cli-service build --mode test",
+    "ready": "vue-cli-service build --mode ready",
+    "build": "vue-cli-service build --mode production"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "vue": "^2.6.10",
+    "vue-class-component": "^7.0.2",
+    "vue-property-decorator": "^8.1.0",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/nprogress": "^0.2.0",
+    "@types/swiper": "^4.4.3",
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-typescript": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "axios": "^0.19.0",
+    "circular-json": "^0.5.9",
+    "element-ui": "^2.10.1",
+    "json-bigint": "^0.3.0",
+    "node-sass": "^4.9.0",
+    "nprogress": "^0.2.0",
+    "sass-loader": "^7.1.0",
+    "swiper": "^4.5.0",
+    "typescript": "^3.4.3",
+    "vue-baidu-map": "^0.21.22",
+    "vue-template-compiler": "^2.6.10",
+    "vuex-persistedstate": "^2.5.4"
+  }
+}
