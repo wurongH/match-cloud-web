@@ -26,7 +26,7 @@
     "circular-json": "^0.5.9",
     "element-ui": "^2.10.1",
     "json-bigint": "^0.3.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "nprogress": "^0.2.0",
     "sass-loader": "^7.1.0",
     "swiper": "^4.5.0",
